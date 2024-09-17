@@ -1,0 +1,84 @@
+using System;
+
+class W1_excercise 
+{
+  static void Main(string[] args) 
+  {
+    Console.Write("Enter your day: ");
+    int days = int.Parse(Console.ReadLine());
+    Console.Write("Enter your month: ");
+    int months = int.Parse(Console.ReadLine());
+    Console.Write("Enter your year: ");
+    int years = int.Parse(Console.ReadLine());
+    
+    Console.Write("\nThis is your input: " + days + "/" + months + "/" + years + "\n\n");
+    
+    if ( days == 31 && months == 12)
+    {
+        Console.WriteLine("The next day is 1/1/" + (years + 1));
+        Console.WriteLine("The previous day was 30/12/" + years);
+    } 
+    else if( days == 31 || days == 30)
+    {
+        Console.WriteLine("The next day is 1/" + (months + 1) + "/" + years);
+        Console.WriteLine("The previous day was " + (days - 1) + "/" + months + "/" + years);
+    } 
+    else if ( days == 28 && months == 2)
+    {
+        if ( years % 4 == 0)
+        {
+            Console.WriteLine("The next day is 29/2/" + years);
+            Console.WriteLine("The previous day was 27/2/" + years);
+        } 
+        else if ( days == 29 )
+        {
+            Console.WriteLine("The next day is 1/3/" + years);
+            Console.WriteLine("The previous day was 28/2/" + years);
+        } else if ( days == 29 && years % 4 != 0)
+        {
+            Console.WriteLine("ERROR");
+        }
+        else
+        {
+            Console.WriteLine("The next day is 1/3/" + years);
+            Console.WriteLine("The previous day was 27/2/" + years);
+        }
+    } 
+    else if ( days == 1 )
+    {
+        if (months == 1)
+        {
+            Console.WriteLine("The next day is " + (days + 1) + "/" + months + "/" + years);
+            Console.WriteLine("The previous day was 31/12/" + (years - 1));
+        } 
+        else if ( months == 3 ) 
+        {
+            if ( years % 4 == 0)
+            {
+                Console.WriteLine("The next day is " + (days + 1) + "/" + months + "/" + years);
+                Console.WriteLine("The previous day was 29/2/" + years);
+            } 
+            else
+            {
+            Console.WriteLine("The next day is " + (days + 1) + "/" + months + "/" + years);
+            Console.WriteLine("The previous day was 28/2/" + years);
+            }
+        }
+        else if ( months == 5 || months == 7 || months == 8 || months == 10 || months == 12)
+        {
+            Console.WriteLine("The next day is " + (days + 1) + "/" + months + "/" + years);
+            Console.WriteLine("The previous day was 30/" + (months - 1) + "/" + years);
+        } 
+        else if ( months == 4 || months == 6 || months == 9 || months == 11)
+        {
+            Console.WriteLine("The next day is " + (days + 1) + "/" + months + "/" + years);
+            Console.WriteLine("The previous day was 31/" + (months - 1) + "/" + years);
+        }
+    }
+    else 
+    {
+        Console.WriteLine("The next day is " + (days + 1) + "/" + months + "/" + years);
+        Console.WriteLine("The next day is " + (days - 1) + "/" + months + "/" + years);
+    }
+  }
+}
