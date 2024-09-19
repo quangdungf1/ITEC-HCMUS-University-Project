@@ -1,0 +1,149 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="login.css">
+  <title>University Finder</title>
+</head>
+
+<body>
+  <header>
+    <div id="navbar">
+      <div id="logo">
+        <a href="index.html">UNI!!!</a>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div id="login-signup">
+      <nav>
+        <ul>
+          <li><a href="#">LOGIN</a></li>
+          <li><a href="#">REGISTER</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <input id="register_toggle" type="checkbox">
+      <div class="slider">
+        <form class="form" id="login">
+          <span class="title">Login</span>
+          <div class="form_control">
+            <input required="" class="input" type="text" id="login_username">
+            <label class="label">Username</label>
+          </div>
+          <div class="form_control">
+            <input required="" class="input" type="password" id="login_passwork">
+            <label class="label">Password</label>
+          </div>
+          <button type="click" id="login_button">Login</button>
+
+          <span class="bottom_text">Don't have an account? <label class="swtich" for="register_toggle">Sign Up</label>
+          </span>
+        </form>
+        <form class="form" id="signup">
+          <span class="title">Sign Up</span>
+          <div class="form_control">
+            <input required="" class="input" type="text" id="signup_username">
+            <label class="label">Username</label>
+          </div>
+          <div class="form_control">
+            <input required="" class="input" type="text" id="signup_email">
+            <label class="label">Email</label>
+          </div>
+          <div class="form_control">
+            <input required="" class="input" type="password" id="signup_passwork1">
+            <label class="label">Password</label>
+          </div>
+          <div class="form_control">
+            <input required="" class="input" type="password" id="signup_passwork2">
+            <label class="label">Confirm Password</label>
+          </div>
+          <button type="click" id="signup_button">Sign Up</button>
+
+          <span class="bottom_text">Already have an account? <label class="swtich" for="register_toggle">Sign In</label>
+          </span>
+        </form>
+      </div>
+    </div>
+
+  </main>
+  <footer>
+    <div class="row d-flex align-items-center justify-content-between">
+      <div class="col-lg-3 col-md-5 d-flex flex-column">
+        <h3>COMPANY INFO</h3>
+        <ul type="none">
+          <li>
+            <p>CONTACT</p>
+          </li>
+          <li>
+            <p>TERMS OF USE</p>
+          </li>
+          <li>
+            <p>DISCLAIMER</p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-5 d-flex flex-column">
+        <h3>WEBSITE</h3>
+        <ul type="none">
+          <li>
+            <p>UNIVERSITIES RANKING</p>
+          </li>
+          <li>
+            <p>TOP SCHOOLS</p>
+          </li>
+          <li>
+            <p>STUDY ABROAD</p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-5 d-flex flex-column">
+        <h3>BROWSE BY</h3>
+        <ul type="none">
+          <li>
+            <p>FIELD OF STUDY</p>
+          </li>
+          <li>
+            <p>LOCATION</p>
+          </li>
+          <li>
+            <p>CITY</p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-5 d-flex flex-column">
+        <h3>CONNECT WITH US</h3>
+        <ul type="none">
+          <li>
+            <p><i class="fab fa-facebook-square"></i> FACEBOOK</p>
+          </li>
+          <li>
+            <p><i class="fab fa-twitter"></i> TWITTER</p>
+          </li>
+          <li>
+            <p><i class="fab fa-instagram"></i> INSTAGRAM</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body>
+<script src="login.js"></script>
+
+</html>

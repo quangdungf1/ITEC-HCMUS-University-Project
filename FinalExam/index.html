@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="Description" content="Enter your description here"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+<title>ITEC Store Final</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand"><i class="fa fa-laptop" aria-hidden="true"></i> ITEC Store</a>
+            <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div id="my-nav" class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#"> Store<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ml-2">
+                        <button type="button" class="btn btn-primary">
+                            <!-- update the number of products in the cart here (store the data in the localstorage) -->
+                            <i class="fa fa-cart-plus" aria-hidden="true"></i> <span class="badge badge-light cart-total"> 0</span>
+                          </button>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Itec Store</h1>
+            <p class="lead">Buy online today</p>
+        </div>
+    </div>
+    <div class="container">
+        <!-- use these buttons to filter the products by categories -->
+        <a href="#" class="badge badge-primary p-2 mr-1 smartphones">SmartPhones</a>
+        <a href="#" class="badge badge-primary p-2 mr-1 laptops">Laptops</a>
+        <a href="#" class="badge badge-primary p-2 mr-1 skincare">Skincare</a>
+        <a href="#" class="badge badge-primary p-2 mr-1 furniture">Furniture</a>
+        <!-- output products as cards with image in the div.product-output -->
+        <div class="row product-output">
+        </div>
+    </div>
+    <section>
+        <div class="container-fluid h-custom">
+          <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-9 col-lg-6 col-xl-5">
+              <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                class="img-fluid" alt="Sample image">
+            </div>
+            <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+              <form>
+                <!-- Email input -->
+                <div class="form-outline mb-4">
+                  <input type="email" id="form3Example3" class="form-control form-control-lg"
+                    placeholder="Enter a valid email address" />
+                  <label class="form-label" for="form3Example3">Email address</label>
+                </div>
+
+                <!-- Password input -->
+                <div class="form-outline mb-3">
+                  <input type="password" id="form3Example4" class="form-control form-control-lg"
+                    placeholder="Enter password" />
+                  <label class="form-label" for="form3Example4">Password</label>
+                </div>
+
+                <div class="d-flex justify-content-between align-items-center">
+                  <!-- Checkbox -->
+                  <div class="form-check mb-0">
+                    <input class="form-check-input me-2" type="checkbox" value="" id="form2Example3" />
+                    <label class="form-check-label" for="form2Example3">
+                      Check me out
+                    </label>
+                  </div>
+                </div>
+
+                <div class="text-center text-lg-start mt-4 pt-2">
+                  <button type="button" class="btn btn-primary btn-lg"
+                    style="padding-left: 2.5rem; padding-right: 2.5rem;">Submit</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+    <footer class="mt-4 pt-3 pb-5 bg-dark text-light">
+        <div class="container">
+            <h3><i class="fa fa-laptop" aria-hidden="true"></i> ITEC Store</h3>
+        </div>
+    </footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>

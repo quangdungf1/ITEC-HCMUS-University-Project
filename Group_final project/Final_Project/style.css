@@ -1,0 +1,188 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+    color: #000000;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+footer p {
+    color: white;
+}
+
+.fab {
+    display: inline-block;
+    font-style: normal;
+    font-size: larger;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    color: white;
+}
+
+body {
+    background-color: #171a1c;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.bg-layer {
+    position: fixed;
+    width: 100%;
+    height: auto;
+    z-index: -99;
+}
+
+img.peguin {
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+div#login-signup ul {
+    color: white !important;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    background-color: #1d2e37;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 0 20px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #ffffef;
+    margin: 0 10px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+}
+
+header nav {
+    display: flex;
+    margin-top: 15px;
+}
+
+/*the log out button*/
+#logout_button {
+    display: flex;
+    position: absolute;
+    top: 53px;
+}
+
+#logout_button p {
+    color: red;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+#navbar {
+    display: flex;
+}
+
+#logo {
+    color: #fff;
+    border: 3px solid #fff;
+    padding: 10px;
+    border-radius: 50%;
+    text-align: center;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+}
+
+#logo a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#logo:hover {
+    background-color: #ea68a3;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+/* MAIN */
+main {
+    color: white !important;
+}
+
+main p {
+    color: white !important;
+}
+
+.search-alert {
+    opacity: 0;
+}
+
+.active {
+    opacity: 1 !important;
+}
+
+#countries_list {
+    width: 130%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.inputSearch {
+    width: 130%;
+    background-color: #f5f5f5;
+    color: #242424;
+    padding: .15rem .5rem;
+    min-height: 40px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    line-height: 1.15;
+    box-shadow: 0px 10px 20px -18px;
+}
+
+input:focus {
+    border-bottom: 2px solid #5b5fc7;
+    border-radius: 4px 4px 2px 2px;
+}
+
+input:hover {
+    outline: 1px solid lightgrey;
+}
+
+.search-output .card {
+    background-image: linear-gradient(145deg, #caf0f8, #ade8f4, #90e0ef, #48cae4, #00b4d8);
+    border: none;
+    color: #023e8a;
+    height: 150px;
+    width: 450px;
+    text-align: center;
+    color: black;
+}
+
+/* FOOTER */
+footer {
+    background-color: #1d2e37;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+footer h3 {
+    color: #e9d8a6;
+    margin-left: 38.25px;
+}
+
+footer ul {
+    list-style: none;
+    color: white;
+}

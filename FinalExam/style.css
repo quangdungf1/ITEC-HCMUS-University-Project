@@ -1,0 +1,60 @@
+.jumbotron {
+    background-image: url('images/bg.jpg');
+    background-size: auto;
+    background-position: center center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+  
+  .jumbotron .container {
+    text-align: center;
+    color: white;
+    
+  }
+  .product {
+    margin-bottom: 30px;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  .product img {
+    width: 200px;
+    height: 100px;
+
+  }
+  
+  .product-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .product-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .product-buttons button {
+    margin-right: 10px;
+  }
+  
+  @media (max-width: 767px) {
+    .product-output .col-md-4 {
+      margin-bottom: 30px;
+    }
+  }
+  .btn-white{
+    background-color: white;
+    color: blue;
+  }
+
+  .btn-blue{
+    background-color: blue;
+  }
+  .btn-blue:hover{
+    background-color:midnightblue;
+    color: white;
+  }
+ 

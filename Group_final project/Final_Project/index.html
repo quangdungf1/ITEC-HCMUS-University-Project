@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>University Finder</title>
+</head>
+
+<body>
+    <div class="bg-layer">
+        <svg class="w-full h-full" viewBox="0 0 400 400">
+            <defs>
+                <pattern id="bg_pattern" width="100" height="100" patternUnits="userSpaceOnUse">
+                    <circle cx="50.5" cy="50.5" r="10" fill="#7678ED" stroke="none"></circle>
+                </pattern>
+            </defs>
+            <rect x="0" y="0" width="100%" height="100%" fill="#171a1c" opacity="0.9"></rect>
+            <rect x="0" y="0" width="100%" height="100%" fill="url(#bg_pattern)" opacity="0.9"></rect>
+        </svg>
+    </div>
+
+    <header>
+        <div id="navbar">
+            <div id="logo">
+                <a href="index.html">UNI!</a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">About</a></li>
+                </ul>
+
+            </nav>
+        </div>
+        <div id="login-signup">
+            <nav>
+                <ul>
+                    <li><a href="login.html">LOGIN</a></li>
+                    <li><a href="login.html">REGISTER</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+
+    <main>
+        <div class="jumbotron">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 offset-md-3 text-center">
+                        <h1 class="display-4">SEARCH YOUR UNIVERSITY</h1>
+                        <p class="lead">Enter university here:</p>
+                        <hr class="my-4">
+                        <div class="search-form">
+                            <div class="form0 d-flex gap-2">
+                                <select name="countrieslist" id="countries_list">
+                                </select>
+                                <input class="inputSearch form-control" placeholder="Search..." required="" type="text">
+                            </div>
+                            <button class="btn btn-block btn-lg btn-outline-primary mt-3 buttonSearch"><i
+                                    class="fa fa-search" aria-hidden="true"></i> Search</button>
+                        </div>
+                        <div class="search-alert alert alert-success mt-3 mb-2" role="alert">
+                            Content
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br> <br>
+        <div class="container">
+            <div class="search-output d-flex justify-content-around align-items-center flex-row gap-2 flex-wrap row">
+                <div class="text-center">
+                    <h3>Don't know how to use ?</h3>
+                    <h3>1. Chose country in SELECT BAR</h3>
+                    <h3>2. Search University or Country name on SEARCH BAR</h3>
+                    <h3>3. Click on SEARCH BUTTON when finish</h3>
+                    <p class="text-danger"> --> It may take few minutes to load the countries list at the first running time !</p>
+                    <p class="text-danger"> --> When click the page it will take a few seconds to move next page !</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <nav aria-label="...">
+                <ul class="pagination d-flex justify-content-center m-4">
+                    <li class="page-item previous ">
+                        <span class="page-link previous"><|</span>
+                    </li>
+
+                    <li class="page-item">
+                        <a class="page-link next" href="#">|></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="body3">
+
+        </div>
+    </main>
+    <footer>
+        <div class="row d-flex align-items-center justify-content-between">
+            <div class="col-lg-3 col-md-5 d-flex flex-column">
+                <h3>COMPANY INFO</h3>
+                <ul>
+                    <li>
+                        CONTACT
+                    </li>
+                    <li>
+                        TERMS OF USE
+                    </li>
+                    <li>
+                        DISCLAIMER
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-5 d-flex flex-column">
+                <h3>WEBSITE</h3>
+                <ul>
+                    <li>
+                        UNIVERSITIES RANKING
+                    </li>
+                    <li>
+                        TOP SCHOOLS
+                    </li>
+                    <li>
+                        STUDY ABROAD
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-5 d-flex flex-column">
+                <h3>BROWSE BY</h3>
+                <ul>
+                    <li>
+                        FIELD OF STUDY
+                    </li>
+                    <li>
+                        LOCATION
+                    </li>
+                    <li>
+                        CITY
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-5 d-flex flex-column">
+                <h3>CONNECT WITH US</h3>
+                <ul type="none">
+                    <li>
+                        <i class="fab fa-facebook-square"></i> FACEBOOK
+                    </li>
+                    <li>
+                        <i class="fab fa-twitter"></i> TWITTER
+                    </li>
+                    <li>
+                        <i class="fab fa-instagram"></i> INSTAGRAM
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <script src="main.js"></script>
+</body>
+</html>
