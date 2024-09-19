@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Porfolio" id="id-834e59132e56470092612bc569c212a8" version="5.0.0">
+  <folder name="Strategy" id="id-e2d85f62fc1e48c0bedf8a11875a9854" type="strategy"/>
+  <folder name="Business" id="id-463082c203604ee8a5f01031421e3586" type="business">
+    <element xsi:type="archimate:BusinessActor" name="Customers" id="id-9a0b11e4b0be41aa9df89c97d73d6de3">
+      <documentation>The individuals purchasing cakes and other products from Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="Employees" id="id-e4e9e671a22e4422a29552ed07a26abb">
+      <documentation>The individuals emplyee providing customer service for Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessProcess" name="Sale Process" id="id-f2e38f9ee98e40fa913b87a54771f3dc">
+      <documentation>The method, process which customers purchase their goods from Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="Products" id="id-4f7feb7dc42a42bbaa63da3e207c94ef">
+      <documentation>The cakes and other stuffs sold by Mum's Cake Store in a period of time.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessService" name="Feedback" id="id-51f23a2922f54a87bd8e3f93d37e3c53">
+      <documentation>Customer feedback base from their experience of products, services  in Mum's Cake store.</documentation>
+    </element>
+  </folder>
+  <folder name="Application" id="id-d047c713b0f84aad8605a8612048b990" type="application">
+    <element xsi:type="archimate:ApplicationService" name="Information System" id="id-7a25c0a07f834695bbb8ebca944a31b3">
+      <documentation>This system manages data and coordinates activities.</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationProcess" name="Checkout Process" id="id-399b58d1c4e24e879da91409e25128c3">
+      <documentation>The automated checkout system in which customers can purchase Mum's Cake store products.</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationComponent" name="Sales Data" id="id-2662745ca522473d8a81e9b0108aa7ff">
+      <documentation>Data generated from sales (like customer preferences, popular products, etc.).</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationService" name="Sales Data" id="id-eeeb6895669b4361bf72787b65edc99f"/>
+    <element xsi:type="archimate:DataObject" name="Sales Data" id="id-7e6cc8b23db64f31a8f717cfa272564b">
+      <documentation>This contain all the sale database from the Mum's Cake store in a period of time.</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationComponent" name="Information System" id="id-8e78abb9c6254792ba32c6a0b4409648">
+      <documentation>This contain information about employee (human, robots) and security system needed in Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationService" name="Friendly help human services" id="id-92fc92fba54c4634ba485cd2808eb66f">
+      <documentation>An service designed to provide support and assistance to customer in Mum's Cake store</documentation>
+    </element>
+  </folder>
+  <folder name="Technology &amp; Physical" id="id-3f2b240c4cce4782b068bd38b1f534ef" type="technology">
+    <element xsi:type="archimate:Node" name="Security System" id="id-8ff06a9e6dbc43abb36b6d9161786483">
+      <documentation>This represent both physical and network security measures that work in Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:Node" name="Robots" id="id-dac5ff7798574e219cd97f1ce1dcc65d">
+      <documentation>These robots can assist customers and perform different tasks in the Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:TechnologyProcess" name="Data Protection Process" id="id-e97f4f47ace2400e8022187c9897180b">
+      <documentation>This is the process of securing and proctecting data from store, customer and transaction in Mum's Cake store.</documentation>
+    </element>
+    <element xsi:type="archimate:TechnologyService" name="Security Data" id="id-ef130a8ff5f04bb5bbf18b06f0396ca9">
+      <documentation>Data related to security logs, breach attempts, etc.</documentation>
+    </element>
+    <element xsi:type="archimate:Artifact" name="Security Data" id="id-bd4773a6cfea467bb7847b3a12976641">
+      <documentation>All security information  from documentary, software like firewall, anti virus,.. will archive here.</documentation>
+    </element>
+    <element xsi:type="archimate:Equipment" name="Robots" id="id-082633db52944e4a8bf604f3068729c8">
+      <documentation>These robots can assist customers and perform different tasks in the Mum's Cake store.</documentation>
+    </element>
+  </folder>
+  <folder name="Motivation" id="id-9e0a6f8d287e48fbbc6d206bd7d7ff17" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-507f9093fab7448eb6a0e5197edf0d50" type="implementation_migration"/>
+  <folder name="Other" id="id-1a98017dcdae41aba2e1d17da8180b2c" type="other"/>
+  <folder name="Relations" id="id-ee072ece874442cb91d9107920ac1bde" type="relations">
+    <element xsi:type="archimate:ServingRelationship" id="id-cebe5f0a8154430b8ded3a896e2d9d42" source="id-f2e38f9ee98e40fa913b87a54771f3dc" target="id-9a0b11e4b0be41aa9df89c97d73d6de3">
+      <documentation>Customers (active structure aspect) active  the Sale Process (behavioral aspect) through buying items.</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-3650d1ae2e5f4b19a3d2939e8e8961bc" source="id-4f7feb7dc42a42bbaa63da3e207c94ef" target="id-f2e38f9ee98e40fa913b87a54771f3dc"/>
+    <element xsi:type="archimate:AccessRelationship" id="id-4514ae579163441fb7f15d43e8e83cdd" source="id-9a0b11e4b0be41aa9df89c97d73d6de3" target="id-4f7feb7dc42a42bbaa63da3e207c94ef">
+      <documentation>Customers (active structure aspect) purchase Products (passive structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:RealizationRelationship" id="id-d77a7dcee26a432da23580d87edfd283" source="id-399b58d1c4e24e879da91409e25128c3" target="id-f2e38f9ee98e40fa913b87a54771f3dc">
+      <documentation>The Sales Process (business layer aspect, behavioral aspect) is confirm and send by the Checkout Process (application layer aspect, behavioral aspect)</documentation>
+    </element>
+    <element xsi:type="archimate:AccessRelationship" id="id-ce7804e80a1c4c2c9b1010824f8d84dc" source="id-399b58d1c4e24e879da91409e25128c3" target="id-7e6cc8b23db64f31a8f717cfa272564b">
+      <documentation>Checkout Process (application layer, behavioral aspect aspect) frequenly accesses and updates Sales Data (application layer, passive structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:RealizationRelationship" id="id-f879635c56d6473884e0b06f7e9d0e02" source="id-399b58d1c4e24e879da91409e25128c3" target="id-7a25c0a07f834695bbb8ebca944a31b3"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-272a671cc81d4fcbb4c8256779cc7a5d" source="id-8e78abb9c6254792ba32c6a0b4409648" target="id-399b58d1c4e24e879da91409e25128c3">
+      <documentation>The Information System (active structure aspect) realizes the Checkout Process (behavioral aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:RealizationRelationship" id="id-eb27cfd080ce42298eb52545f4b5e6b9" source="id-8ff06a9e6dbc43abb36b6d9161786483" target="id-e97f4f47ace2400e8022187c9897180b">
+      <documentation>The Security System (technology layer, active structure) realizes the Data Protection Process (technology layer, behavioral aspect)</documentation>
+    </element>
+    <element xsi:type="archimate:AccessRelationship" id="id-2dd163ba45254b6bb6135352cdfa4640" source="id-e97f4f47ace2400e8022187c9897180b" target="id-bd4773a6cfea467bb7847b3a12976641">
+      <documentation>The Data Protection Process (technology layer, behavioral aspect aspect) accesses and updates Security Data (technology layer, passive structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-f826a0f1252d40e4830bc548f229c855" source="id-e4e9e671a22e4422a29552ed07a26abb" target="id-f2e38f9ee98e40fa913b87a54771f3dc">
+      <documentation>Employees (active structure aspect) assist in the Sales Process (behavioral aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9835b27c2c174bb1852b337210557ce6" source="id-e4e9e671a22e4422a29552ed07a26abb" target="id-4f7feb7dc42a42bbaa63da3e207c94ef"/>
+    <element xsi:type="archimate:AccessRelationship" id="id-5678ba86ec144ca195a2e697a76f1a56" source="id-e4e9e671a22e4422a29552ed07a26abb" target="id-4f7feb7dc42a42bbaa63da3e207c94ef">
+      <documentation>Employees (active structure layer) sell Products (passive structure layer).</documentation>
+    </element>
+    <element xsi:type="archimate:ServingRelationship" id="id-f38d8633b6e34f8cacde1e47860fa810" source="id-e4e9e671a22e4422a29552ed07a26abb" target="id-8e78abb9c6254792ba32c6a0b4409648"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-6fe5f68f1b9c48fbba4463c48a917425" source="id-8e78abb9c6254792ba32c6a0b4409648" target="id-e4e9e671a22e4422a29552ed07a26abb">
+      <documentation>The Information System (application layer, active structure aspect) is used by Employees (business layer, active structure aspect)</documentation>
+    </element>
+    <element xsi:type="archimate:ServingRelationship" id="id-b2c3e54bdf9440d6a675dd487948e395" source="id-8ff06a9e6dbc43abb36b6d9161786483" target="id-e4e9e671a22e4422a29552ed07a26abb">
+      <documentation>The Security System (technology layer, active structure aspect) is used by Employees (business layer, active structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:ServingRelationship" id="id-7fb159d64ac44da4a1fdff8f2f9f57fb" source="id-082633db52944e4a8bf604f3068729c8" target="id-e4e9e671a22e4422a29552ed07a26abb">
+      <documentation>Robots (technology layer, active structure aspect) is used by Employees (business layer, active structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:FlowRelationship" id="id-56149652417a434e947e95c14c74d3b6" source="id-082633db52944e4a8bf604f3068729c8" target="id-f2e38f9ee98e40fa913b87a54771f3dc">
+      <documentation>Robots (technology layer, active structure aspect) assisted by the Sales Process (business layer, behavioral aspect aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-47409ddb691c4689a4b87c568693a3d8" source="id-8e78abb9c6254792ba32c6a0b4409648" target="id-8ff06a9e6dbc43abb36b6d9161786483">
+      <documentation>Information System (application layer, active structure aspect) interacting  with the Security System (technology layer, active structure aspect) to ensure secure transactions.</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-53db0daa81374c2da1e7dbd6ad9202a0" source="id-8e78abb9c6254792ba32c6a0b4409648" target="id-082633db52944e4a8bf604f3068729c8">
+      <documentation>Robots (technology layer, active structure aspect) interacting with the Information System (application layer, active structure aspect) for coordination of tasks</documentation>
+    </element>
+    <element xsi:type="archimate:AssociationRelationship" id="id-73878efe72ca4f919790cfcda1f99a67" source="id-082633db52944e4a8bf604f3068729c8" target="id-8e78abb9c6254792ba32c6a0b4409648"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-1f6ebe2519e54ad78e3537b81bf31539" source="id-399b58d1c4e24e879da91409e25128c3" target="id-92fc92fba54c4634ba485cd2808eb66f">
+      <documentation>The Checkout Process (behavioral aspect) giving the data of customer to the The Friendly help human services (active structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:ServingRelationship" id="id-f7c2a9a2dd2845cd8c94149126c9b29c" source="id-92fc92fba54c4634ba485cd2808eb66f" target="id-9a0b11e4b0be41aa9df89c97d73d6de3">
+      <documentation>The Customer (business layer aspect, passive structure aspect) is being serve by the Friendly help human services (application layer aspect, active structure aspect)</documentation>
+    </element>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-fd937c06a2014830a4379fed7d448a5e" source="id-9a0b11e4b0be41aa9df89c97d73d6de3" target="id-51f23a2922f54a87bd8e3f93d37e3c53">
+      <documentation>Customers (active structure aspect) giving their feedback to The Feedback (passive structure aspect).</documentation>
+    </element>
+    <element xsi:type="archimate:TriggeringRelationship" id="id-6c0975c195124913a11a2e80989527e2" source="id-51f23a2922f54a87bd8e3f93d37e3c53" target="id-8e78abb9c6254792ba32c6a0b4409648">
+      <documentation>The Feedback (business layer, passive structure aspect) is giving feedback data to The Information System (application layer, active structure aspect) </documentation>
+    </element>
+  </folder>
+  <folder name="Views" id="id-e527d394d2484b84b29454c3317420b9" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-412e2f087f5748759e2d4d51cf61035c">
+      <child xsi:type="archimate:DiagramObject" id="id-aa190b18af0c47d0b1412f3eec1f7372" targetConnections="id-d5c442af4a1a4e75854b1a39c76e4cfd id-5eb93c4852ff493096949b9a1654bbb6 id-210c132101a648168e7f82f6e471bfe4" archimateElement="id-e4e9e671a22e4422a29552ed07a26abb">
+        <bounds x="276" y="384" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ff0275b814bd42bca69a2898c9e21087" source="id-aa190b18af0c47d0b1412f3eec1f7372" target="id-68b355a4bc964b79ad0d2521d7ebe7a5" archimateRelationship="id-5678ba86ec144ca195a2e697a76f1a56"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-2508fecc0de54d66aa32dea723b4d822" source="id-aa190b18af0c47d0b1412f3eec1f7372" target="id-cb9218173994422485c36365106efc13" archimateRelationship="id-f826a0f1252d40e4830bc548f229c855"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-68b355a4bc964b79ad0d2521d7ebe7a5" targetConnections="id-ae547b7177a2441b8c7a03861369c994 id-ff0275b814bd42bca69a2898c9e21087" archimateElement="id-4f7feb7dc42a42bbaa63da3e207c94ef">
+        <bounds x="72" y="384" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-3c130c01e1ff4d65aa1535045b11ab77" targetConnections="id-9a4d5c029a7249b5a80f55a84e2e3ce6 id-8f94182e141e40b09e883f06d856fa40" archimateElement="id-9a0b11e4b0be41aa9df89c97d73d6de3">
+        <bounds x="72" y="504" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ae547b7177a2441b8c7a03861369c994" source="id-3c130c01e1ff4d65aa1535045b11ab77" target="id-68b355a4bc964b79ad0d2521d7ebe7a5" archimateRelationship="id-4514ae579163441fb7f15d43e8e83cdd"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ff244b76551d485b8c03fc4a6eb7d1d8" source="id-3c130c01e1ff4d65aa1535045b11ab77" target="id-0bd552babc624bfca59d08a650214b82" archimateRelationship="id-fd937c06a2014830a4379fed7d448a5e">
+          <bendpoint startX="120" startY="-27" endX="-36" endY="249"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-cb9218173994422485c36365106efc13" targetConnections="id-03fd4fca5a674568a55f55256fcceb1b id-2508fecc0de54d66aa32dea723b4d822 id-4f4950bb15ca477384175fd3d24a2115" archimateElement="id-f2e38f9ee98e40fa913b87a54771f3dc">
+        <bounds x="276" y="504" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-9a4d5c029a7249b5a80f55a84e2e3ce6" source="id-cb9218173994422485c36365106efc13" target="id-3c130c01e1ff4d65aa1535045b11ab77" archimateRelationship="id-cebe5f0a8154430b8ded3a896e2d9d42"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-5187a9ac4fdc484089f684c42fcecbda" targetConnections="id-ea4ae407820a45b69b68710d3754ed75" archimateElement="id-7e6cc8b23db64f31a8f717cfa272564b">
+        <bounds x="684" y="432" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-c99202cbadc54ec7a1850043e271f093" targetConnections="id-cb1c2baa9b574ac2b7ffc79415f7fbeb" archimateElement="id-399b58d1c4e24e879da91409e25128c3">
+        <bounds x="492" y="432" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-03fd4fca5a674568a55f55256fcceb1b" source="id-c99202cbadc54ec7a1850043e271f093" target="id-cb9218173994422485c36365106efc13" archimateRelationship="id-d77a7dcee26a432da23580d87edfd283">
+          <bendpoint startX="-96" startY="-2" endX="144" endY="-74"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ea4ae407820a45b69b68710d3754ed75" source="id-c99202cbadc54ec7a1850043e271f093" target="id-5187a9ac4fdc484089f684c42fcecbda" archimateRelationship="id-ce7804e80a1c4c2c9b1010824f8d84dc"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-e4ddc6746c194ced9701c9be96884f91" source="id-c99202cbadc54ec7a1850043e271f093" target="id-e08c1b4889674073bf2517fe6a9d5c62" archimateRelationship="id-1f6ebe2519e54ad78e3537b81bf31539"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-96f197b36e1047d99b140342904207f6" targetConnections="id-1e683560be694a7dba258922b0b0dc79" archimateElement="id-8e78abb9c6254792ba32c6a0b4409648">
+        <bounds x="528" y="282" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-cb1c2baa9b574ac2b7ffc79415f7fbeb" source="id-96f197b36e1047d99b140342904207f6" target="id-c99202cbadc54ec7a1850043e271f093" archimateRelationship="id-272a671cc81d4fcbb4c8256779cc7a5d"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-d5c442af4a1a4e75854b1a39c76e4cfd" source="id-96f197b36e1047d99b140342904207f6" target="id-aa190b18af0c47d0b1412f3eec1f7372" archimateRelationship="id-6fe5f68f1b9c48fbba4463c48a917425">
+          <bendpoint startX="-108" startY="-3" endX="144" endY="-135"/>
+          <bendpoint startX="-108" startY="117" endX="144" endY="-15"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-1d7b541cf8dc42b08c9de20ced4bbc3e" source="id-96f197b36e1047d99b140342904207f6" target="id-3011d1d530194098aa04e0c73ea0e464" archimateRelationship="id-47409ddb691c4689a4b87c568693a3d8">
+          <bendpoint startX="24" startY="69" endX="-288" endY="-18"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-e4c601a7275a42bea4cd15c2e9fce883" source="id-96f197b36e1047d99b140342904207f6" target="id-a5c76121da804e23bcecb05e3a453cc3" archimateRelationship="id-53db0daa81374c2da1e7dbd6ad9202a0"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-3011d1d530194098aa04e0c73ea0e464" targetConnections="id-1d7b541cf8dc42b08c9de20ced4bbc3e" archimateElement="id-8ff06a9e6dbc43abb36b6d9161786483">
+        <bounds x="864" y="336" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-8dff12b8935349ac8e4cef664d900976" source="id-3011d1d530194098aa04e0c73ea0e464" target="id-adb473a2240e4a5e851e7a6928e988f7" archimateRelationship="id-eb27cfd080ce42298eb52545f4b5e6b9"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-5eb93c4852ff493096949b9a1654bbb6" source="id-3011d1d530194098aa04e0c73ea0e464" target="id-aa190b18af0c47d0b1412f3eec1f7372" archimateRelationship="id-b2c3e54bdf9440d6a675dd487948e395">
+          <bendpoint startX="-120" startY="9" endX="468" endY="-39"/>
+          <bendpoint startX="-120" startY="-171" endX="468" endY="-219"/>
+          <bendpoint startX="-288" startY="-174" endX="276" endY="-219"/>
+          <bendpoint startX="-516" startY="-174" endX="48" endY="-219"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-adb473a2240e4a5e851e7a6928e988f7" targetConnections="id-8dff12b8935349ac8e4cef664d900976" archimateElement="id-e97f4f47ace2400e8022187c9897180b">
+        <bounds x="864" y="438" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-99272a24393749b6bceaffa6e912f7cc" source="id-adb473a2240e4a5e851e7a6928e988f7" target="id-3ff151401507439ebf559ecb3f7c268b" archimateRelationship="id-2dd163ba45254b6bb6135352cdfa4640"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-3ff151401507439ebf559ecb3f7c268b" targetConnections="id-99272a24393749b6bceaffa6e912f7cc" archimateElement="id-bd4773a6cfea467bb7847b3a12976641">
+        <bounds x="1140" y="432" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-a5c76121da804e23bcecb05e3a453cc3" targetConnections="id-e4c601a7275a42bea4cd15c2e9fce883" archimateElement="id-082633db52944e4a8bf604f3068729c8">
+        <bounds x="864" y="252" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-4f4950bb15ca477384175fd3d24a2115" source="id-a5c76121da804e23bcecb05e3a453cc3" target="id-cb9218173994422485c36365106efc13" archimateRelationship="id-56149652417a434e947e95c14c74d3b6">
+          <bendpoint startX="120" startY="21" endX="708" endY="-231"/>
+          <bendpoint startX="120" startY="261" endX="708" endY="9"/>
+          <bendpoint startX="-540" startY="252" endX="132" endY="21"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="id-210c132101a648168e7f82f6e471bfe4" source="id-a5c76121da804e23bcecb05e3a453cc3" target="id-aa190b18af0c47d0b1412f3eec1f7372" archimateRelationship="id-7fb159d64ac44da4a1fdff8f2f9f57fb">
+          <bendpoint startX="-12" startY="-111" endX="576" endY="-243"/>
+          <bendpoint startX="-516" startY="-120" endX="48" endY="-243"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-0bd552babc624bfca59d08a650214b82" targetConnections="id-ff244b76551d485b8c03fc4a6eb7d1d8" archimateElement="id-51f23a2922f54a87bd8e3f93d37e3c53">
+        <bounds x="180" y="282" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-1e683560be694a7dba258922b0b0dc79" source="id-0bd552babc624bfca59d08a650214b82" target="id-96f197b36e1047d99b140342904207f6" archimateRelationship="id-6c0975c195124913a11a2e80989527e2"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e08c1b4889674073bf2517fe6a9d5c62" targetConnections="id-e4ddc6746c194ced9701c9be96884f91" archimateElement="id-92fc92fba54c4634ba485cd2808eb66f">
+        <bounds x="492" y="588" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-8f94182e141e40b09e883f06d856fa40" source="id-e08c1b4889674073bf2517fe6a9d5c62" target="id-3c130c01e1ff4d65aa1535045b11ab77" archimateRelationship="id-f7c2a9a2dd2845cd8c94149126c9b29c"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
