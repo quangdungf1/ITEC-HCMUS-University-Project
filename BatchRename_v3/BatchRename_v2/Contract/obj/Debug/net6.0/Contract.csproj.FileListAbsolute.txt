@@ -1,0 +1,24 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\bin\Debug\net6.0\Contract.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\bin\Debug\net6.0\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\bin\Debug\net6.0\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\refint\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\ref\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\bin\Debug\net6.0\Contract.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\bin\Debug\net6.0\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\bin\Debug\net6.0\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\refint\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\Contract\obj\Debug\net6.0\ref\Contract.dll

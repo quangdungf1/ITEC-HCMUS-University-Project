@@ -1,0 +1,48 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixUI.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule_MarkupCompile.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule_MarkupCompile.lref
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixUI.baml
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.g.resources
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\refint\AddPrefixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\ref\AddPrefixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\AddPrefixRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixUI.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule_MarkupCompile.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule_MarkupCompile.lref
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixUI.baml
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.g.resources
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\refint\AddPrefixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\AddPrefixRule.genruntimeconfig.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddPrefixRule\obj\Debug\net6.0-windows\ref\AddPrefixRule.dll

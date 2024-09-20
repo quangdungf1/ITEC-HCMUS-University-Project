@@ -1,0 +1,48 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionUI.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule_MarkupCompile.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule_MarkupCompile.lref
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionUI.baml
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.g.resources
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\refint\ChangeExtensionRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ref\ChangeExtensionRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\ChangeExtensionRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionUI.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule_MarkupCompile.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule_MarkupCompile.lref
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionUI.baml
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.g.resources
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\refint\ChangeExtensionRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ChangeExtensionRule.genruntimeconfig.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ChangeExtensionRule\obj\Debug\net6.0-windows\ref\ChangeExtensionRule.dll

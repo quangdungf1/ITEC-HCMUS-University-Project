@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+	  <TargetFramework>net6.0-windows</TargetFramework>
+	  <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="background_v7.png" />
+    <None Remove="print_v2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="{215d64d2-031c-33c7-96e3-61794cd1ee61}">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>4</VersionMinor>
+      <VersionMajor>2</VersionMajor>
+      <Guid>215d64d2-031c-33c7-96e3-61794cd1ee61</Guid>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AddCounterRule\AddCounterRule.csproj" />
+    <ProjectReference Include="..\AddPrefixRule\AddPrefixRule.csproj" />
+    <ProjectReference Include="..\AddSurfixRule\AddSurfixRule.csproj" />
+    <ProjectReference Include="..\ChangeExtensionRule\ChangeExtensionRule.csproj" />
+    <ProjectReference Include="..\ConvertToPascalCaseRule\ConvertToPascalCaseRule.csproj" />
+    <ProjectReference Include="..\LowerCaseRule\LowerCaseRule.csproj" />
+    <ProjectReference Include="..\RemoveAllSpaceRule\RemoveAllSpaceRule.csproj" />
+    <ProjectReference Include="..\ReplaceRule\ReplaceRule.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="print_v2.png" />
+  </ItemGroup>
+
+</Project>

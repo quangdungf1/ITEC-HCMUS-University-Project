@@ -1,0 +1,30 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\LowerCaseRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\LowerCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\LowerCaseRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\refint\LowerCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\ref\LowerCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\LowerCaseRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\LowerCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\LowerCaseRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\refint\LowerCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\LowerCaseRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\LowerCaseRule\obj\Debug\net6.0\ref\LowerCaseRule.dll

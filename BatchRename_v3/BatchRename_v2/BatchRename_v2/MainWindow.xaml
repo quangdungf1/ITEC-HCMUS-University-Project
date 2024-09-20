@@ -1,0 +1,119 @@
+﻿<Window x:Class="BatchRename_v2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BatchRename_v2"
+        mc:Ignorable="d"
+        Title="Batch Rename" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,-6">
+        <Grid.Background>
+            <ImageBrush ImageSource="/print_v2.png"/>
+        </Grid.Background>
+        <TabControl Margin="294,85,0,71">
+            <TabControl.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF7300A4"/>
+                    <GradientStop Color="#FFCEB747" Offset="1"/>
+                </LinearGradientBrush>
+            </TabControl.Background>
+            <TabItem Background="BlueViolet">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Rename Files" FontWeight="Bold" Foreground="#FFE0D81C"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <StackPanel Orientation="Vertical">
+                    <StackPanel.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="White"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </StackPanel.Background>
+                    <ToolBarTray Background="#FF460020"/>
+                    <DataGrid Name="fileTab" Background="Transparent" GridLinesVisibility="All" FontWeight="Bold" BorderBrush="#FFABD1C6">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="File Name" Width="150" Binding="{Binding FileName}"/>
+                            <DataGridTextColumn Header="New File Name" Width="150" Binding="{Binding FileRename}"/>
+                            <DataGridTextColumn Header="File Path" Width="150" Binding="{Binding FilePath}"/>
+                            <DataGridTextColumn Header="Status" Width="*" Binding="{Binding FileError}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem Background="BlueViolet">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Rename Folders" FontWeight="Bold" Foreground="#FFE1EC1E"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <StackPanel Orientation="Vertical" Height="252" Margin="0,0,-2,0" Background="White">
+                    <ToolBarTray Background="#FF460020"/>
+                    <DataGrid Name="folderTab" Background="Transparent" GridLinesVisibility="All" FontWeight="Bold">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Folder Name" Width="150" Binding="{Binding FolderName}"/>
+                            <DataGridTextColumn Header="New Folder Name" Width="150" Binding="{Binding FolderRename}"/>
+                            <DataGridTextColumn Header="Folder Path" Width="150" Binding="{Binding FolderPath}"/>
+                            <DataGridTextColumn Header="Error" Width="*" Binding="{Binding FolderError}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+        <ListBox Name="_RuleListBox" d:ItemsSource="{d:SampleData ItemCount=10}" Margin="0,85,518,71" FontFamily="Berlin Sans FB Demi" BorderBrush="#FF3B61D2" SelectionChanged="_RuleListBox_SelectionChanged">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.159"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+            <ListBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Edit" Click="EditButtonClicked"/>
+                </ContextMenu>
+            </ListBox.ContextMenu>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel Height="40">
+                        <TextBlock Text="{Binding Name}"  FontSize="15"/>
+                        <TextBlock Text=": " FontSize="15"/>
+                        <TextBlock Text="{Binding Description}" FontSize="15"/>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ComboBox Name="_RulesComboBox" Canvas.Left="134" Canvas.Top="10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="10,44,0,0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock Text="{Binding Name}"/>
+                    </WrapPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Image Margin="726,6,51,407" Source="/icon/saveIcon.png" Stretch="Fill"/>
+        <Image Margin="630,6,147,407" Source="/icon/loadPresetIcon.png" Stretch="Fill"/>
+        <Image Margin="523,4,251,408" Source="/icon/deleteDatabaseIcon.png" Stretch="Fill" OpacityMask="#FFAF5050"/>
+        <Image Margin="269,46,506,368" Source="/icon/addFileIcon.png" Stretch="Fill" OpacityMask="#FFFFE6E6"/>
+        <Image Margin="367,44,408,370" Source="/icon/addFileIcon.png" Stretch="Fill"/>
+        <Label Content="BATCH RENAME" HorizontalAlignment="Left" Margin="0,-3,0,0" VerticalAlignment="Top" FontFamily="Berlin Sans FB Demi" FontStyle="Italic" FontSize="24" FontWeight="Bold">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF923EE0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="White" Offset="0.048"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Image Margin="241,19,531,395" Source="/icon/addMethodIcon.png" Stretch="Fill"/>
+        <TextBlock x:Name="background" HorizontalAlignment="Left" Margin="282,20,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="49" Width="508" Foreground="White" Background="White"/>
+        <Button Click="addRuleButton" Name="_addRule" Content="ADD" HorizontalAlignment="Left" Margin="141,44,0,0" VerticalAlignment="Top" Height="22" Width="57" FontFamily="Berlin Sans FB Demi" FontSize="16" Background="White"/>
+        <Button Click="addFileButton" Content="ADD FILE" HorizontalAlignment="Left" Margin="294,30,0,0" VerticalAlignment="Top" Height="29" Width="80" FontFamily="Berlin Sans FB Demi" FontSize="16" Background="White"/>
+        <Button Click="addFolderButton" Content="ADD FOLDER" HorizontalAlignment="Left" Margin="386,30,0,0" VerticalAlignment="Top" Height="29" Width="100" FontFamily="Berlin Sans FB Demi" FontSize="16" Background="White"/>
+        <Button Click="deleteSaveButton" Content="DELETE SAVE" HorizontalAlignment="Left" Margin="680,30,0,0" VerticalAlignment="Top" Height="29" Width="101" FontFamily="Berlin Sans FB Demi" FontSize="16" Background="White"/>
+        <Button Click="loadButton" Content="LOAD SAVE" HorizontalAlignment="Left" Margin="576,30,0,0" VerticalAlignment="Top" Height="29" Width="88" FontFamily="Berlin Sans FB Demi" FontSize="16" Background="White"/>
+        <Button Click="saveButton" Content="SAVE" HorizontalAlignment="Left" Margin="500,30,0,0" VerticalAlignment="Top" Height="29" Width="60" FontFamily="Berlin Sans FB Demi" FontSize="16" Background="White"/>
+        <Button Click="deleteRuleButton" Margin="198,44,0,0" Content="DELETE" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Berlin Sans FB Demi" FontSize="16" Width="57" Background="White" Height="22"/>
+        <Button Content="RENAME" FontWeight="Bold" FontFamily="Berlin Sans FB Demi" Name="_batchRenameStart" Click="_batchRename_click" Height="38" Width="111" Margin="331,386,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="305" Canvas.Top="11" RenderTransformOrigin="0.519,0.686" Background="White"/>
+    </Grid>
+</Window>

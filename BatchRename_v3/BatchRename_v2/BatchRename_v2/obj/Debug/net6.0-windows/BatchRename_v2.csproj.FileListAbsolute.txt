@@ -1,0 +1,127 @@
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\PrefixSurfixEdit.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\ReplaceEdit.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.lref
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.AssemblyReference.cache
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\PrefixSurfixEdit.g.cs
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\ReplaceEdit.g.cs
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\App.g.cs
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.cache
+E:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.lref
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.AssemblyReference.cache
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\PrefixSurfixEdit.g.cs
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\ReplaceEdit.g.cs
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\App.g.cs
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.cache
+D:\desktop\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.lref
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.ResolveComReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.lref
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddCounterRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ConvertToPascalCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\LowerCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\RemoveAllSpaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddCounterRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ConvertToPascalCaseRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\LowerCaseRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\RemoveAllSpaceRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.g.resources
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\refint\BatchRename_v2.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\ref\BatchRename_v2.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\BatchRename_v2.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddCounterRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ConvertToPascalCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\LowerCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\RemoveAllSpaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddCounterRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddPrefixRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\AddSurfixRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ChangeExtensionRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ConvertToPascalCaseRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\LowerCaseRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\RemoveAllSpaceRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\ReplaceRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.ResolveComReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2_MarkupCompile.lref
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.g.resources
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\refint\BatchRename_v2.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\BatchRename_v2.genruntimeconfig.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\BatchRename_v2\obj\Debug\net6.0-windows\ref\BatchRename_v2.dll

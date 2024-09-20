@@ -1,0 +1,278 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "AddCounterRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AddCounterRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AddCounterRule.dll": {}
+        }
+      },
+      "AddPrefixRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AddPrefixRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AddPrefixRule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "AddSurfixRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AddSurfixRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AddSurfixRule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "ChangeExtensionRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChangeExtensionRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChangeExtensionRule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contract.dll": {}
+        }
+      },
+      "ConvertToPascalCaseRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConvertToPascalCaseRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConvertToPascalCaseRule.dll": {}
+        }
+      },
+      "LowerCaseRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LowerCaseRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LowerCaseRule.dll": {}
+        }
+      },
+      "RemoveAllSpaceRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RemoveAllSpaceRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RemoveAllSpaceRule.dll": {}
+        }
+      },
+      "ReplaceRule/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReplaceRule.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReplaceRule.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "AddCounterRule/1.0.0": {
+      "type": "project",
+      "path": "../AddCounterRule/AddCounterRule.csproj",
+      "msbuildProject": "../AddCounterRule/AddCounterRule.csproj"
+    },
+    "AddPrefixRule/1.0.0": {
+      "type": "project",
+      "path": "../AddPrefixRule/AddPrefixRule.csproj",
+      "msbuildProject": "../AddPrefixRule/AddPrefixRule.csproj"
+    },
+    "AddSurfixRule/1.0.0": {
+      "type": "project",
+      "path": "../AddSurfixRule/AddSurfixRule.csproj",
+      "msbuildProject": "../AddSurfixRule/AddSurfixRule.csproj"
+    },
+    "ChangeExtensionRule/1.0.0": {
+      "type": "project",
+      "path": "../ChangeExtensionRule/ChangeExtensionRule.csproj",
+      "msbuildProject": "../ChangeExtensionRule/ChangeExtensionRule.csproj"
+    },
+    "Contract/1.0.0": {
+      "type": "project",
+      "path": "../Contract/Contract.csproj",
+      "msbuildProject": "../Contract/Contract.csproj"
+    },
+    "ConvertToPascalCaseRule/1.0.0": {
+      "type": "project",
+      "path": "../ConvertToPascalCaseRule/ConvertToPascalCaseRule.csproj",
+      "msbuildProject": "../ConvertToPascalCaseRule/ConvertToPascalCaseRule.csproj"
+    },
+    "LowerCaseRule/1.0.0": {
+      "type": "project",
+      "path": "../LowerCaseRule/LowerCaseRule.csproj",
+      "msbuildProject": "../LowerCaseRule/LowerCaseRule.csproj"
+    },
+    "RemoveAllSpaceRule/1.0.0": {
+      "type": "project",
+      "path": "../RemoveAllSpaceRule/RemoveAllSpaceRule.csproj",
+      "msbuildProject": "../RemoveAllSpaceRule/RemoveAllSpaceRule.csproj"
+    },
+    "ReplaceRule/1.0.0": {
+      "type": "project",
+      "path": "../ReplaceRule/ReplaceRule.csproj",
+      "msbuildProject": "../ReplaceRule/ReplaceRule.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "AddCounterRule >= 1.0.0",
+      "AddPrefixRule >= 1.0.0",
+      "AddSurfixRule >= 1.0.0",
+      "ChangeExtensionRule >= 1.0.0",
+      "ConvertToPascalCaseRule >= 1.0.0",
+      "LowerCaseRule >= 1.0.0",
+      "RemoveAllSpaceRule >= 1.0.0",
+      "ReplaceRule >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MR. TIEN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\BatchRename_v2\\BatchRename_v2.csproj",
+      "projectName": "BatchRename_v2",
+      "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\BatchRename_v2\\BatchRename_v2.csproj",
+      "packagesPath": "C:\\Users\\MR. TIEN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\BatchRename_v2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MR. TIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\AddCounterRule\\AddCounterRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\AddCounterRule\\AddCounterRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\AddPrefixRule\\AddPrefixRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\AddPrefixRule\\AddPrefixRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\AddSurfixRule\\AddSurfixRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\AddSurfixRule\\AddSurfixRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\ChangeExtensionRule\\ChangeExtensionRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\ChangeExtensionRule\\ChangeExtensionRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\ConvertToPascalCaseRule\\ConvertToPascalCaseRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\ConvertToPascalCaseRule\\ConvertToPascalCaseRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\LowerCaseRule\\LowerCaseRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\LowerCaseRule\\LowerCaseRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\RemoveAllSpaceRule\\RemoveAllSpaceRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\RemoveAllSpaceRule\\RemoveAllSpaceRule.csproj"
+            },
+            "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\ReplaceRule\\ReplaceRule.csproj": {
+              "projectPath": "C:\\Users\\MR. TIEN\\Desktop\\BatchRename_v3\\BatchRename_v2\\ReplaceRule\\ReplaceRule.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

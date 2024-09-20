@@ -1,0 +1,48 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixUI.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule_MarkupCompile.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule_MarkupCompile.lref
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixUI.baml
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.g.resources
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\refint\AddSurfixRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\ref\AddSurfixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\AddSurfixRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixUI.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule_MarkupCompile.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule_MarkupCompile.lref
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixUI.baml
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.g.resources
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\refint\AddSurfixRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\AddSurfixRule.genruntimeconfig.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddSurfixRule\obj\Debug\net6.0-windows\ref\AddSurfixRule.dll

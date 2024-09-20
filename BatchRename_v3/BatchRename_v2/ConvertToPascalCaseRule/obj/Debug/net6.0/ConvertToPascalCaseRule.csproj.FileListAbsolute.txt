@@ -1,0 +1,30 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\ConvertToPascalCaseRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\ConvertToPascalCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\ConvertToPascalCaseRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\refint\ConvertToPascalCaseRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ref\ConvertToPascalCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\ConvertToPascalCaseRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\ConvertToPascalCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\ConvertToPascalCaseRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\refint\ConvertToPascalCaseRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ConvertToPascalCaseRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ConvertToPascalCaseRule\obj\Debug\net6.0\ref\ConvertToPascalCaseRule.dll

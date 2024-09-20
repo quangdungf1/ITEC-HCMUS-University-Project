@@ -1,0 +1,48 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceUI.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule_MarkupCompile.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule_MarkupCompile.lref
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.exe
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.runtimeconfig.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceUI.baml
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.g.resources
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\refint\ReplaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ref\ReplaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.exe
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.runtimeconfig.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\ReplaceRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\bin\Debug\net6.0-windows\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceUI.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule_MarkupCompile.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule_MarkupCompile.lref
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceUI.baml
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.g.resources
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\refint\ReplaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ReplaceRule.genruntimeconfig.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\ReplaceRule\obj\Debug\net6.0-windows\ref\ReplaceRule.dll

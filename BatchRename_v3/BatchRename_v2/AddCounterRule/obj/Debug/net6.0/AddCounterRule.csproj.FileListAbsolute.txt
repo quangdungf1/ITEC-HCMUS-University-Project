@@ -1,0 +1,30 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\AddCounterRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\AddCounterRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\AddCounterRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\refint\AddCounterRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\ref\AddCounterRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\AddCounterRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\AddCounterRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\AddCounterRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\refint\AddCounterRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\AddCounterRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\AddCounterRule\obj\Debug\net6.0\ref\AddCounterRule.dll

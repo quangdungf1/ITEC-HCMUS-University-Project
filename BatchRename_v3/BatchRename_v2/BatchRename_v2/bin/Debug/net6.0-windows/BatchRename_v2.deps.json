@@ -1,0 +1,147 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BatchRename_v2/1.0.0": {
+        "dependencies": {
+          "AddCounterRule": "1.0.0",
+          "AddPrefixRule": "1.0.0",
+          "AddSurfixRule": "1.0.0",
+          "ChangeExtensionRule": "1.0.0",
+          "ConvertToPascalCaseRule": "1.0.0",
+          "LowerCaseRule": "1.0.0",
+          "RemoveAllSpaceRule": "1.0.0",
+          "ReplaceRule": "1.0.0"
+        },
+        "runtime": {
+          "BatchRename_v2.dll": {}
+        }
+      },
+      "AddCounterRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "AddCounterRule.dll": {}
+        }
+      },
+      "AddPrefixRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "AddPrefixRule.dll": {}
+        }
+      },
+      "AddSurfixRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "AddSurfixRule.dll": {}
+        }
+      },
+      "ChangeExtensionRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "ChangeExtensionRule.dll": {}
+        }
+      },
+      "Contract/1.0.0": {
+        "runtime": {
+          "Contract.dll": {}
+        }
+      },
+      "ConvertToPascalCaseRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "ConvertToPascalCaseRule.dll": {}
+        }
+      },
+      "LowerCaseRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "LowerCaseRule.dll": {}
+        }
+      },
+      "RemoveAllSpaceRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "RemoveAllSpaceRule.dll": {}
+        }
+      },
+      "ReplaceRule/1.0.0": {
+        "dependencies": {
+          "Contract": "1.0.0"
+        },
+        "runtime": {
+          "ReplaceRule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BatchRename_v2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddCounterRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddPrefixRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddSurfixRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChangeExtensionRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConvertToPascalCaseRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LowerCaseRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoveAllSpaceRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReplaceRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

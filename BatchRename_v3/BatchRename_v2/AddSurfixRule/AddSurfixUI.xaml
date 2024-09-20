@@ -1,0 +1,24 @@
+﻿<Window x:Class="AddSurfixRule.AddSurfixUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddSurfixRule"
+        mc:Ignorable="d"
+        Title="AddSurfixUI" Height="450" Width="800" Loaded="AddSurfix_Loaded">
+    <Grid Background="Black">
+     
+        <Button Click="applyButton" Content="Apply"  HorizontalAlignment="Left" Margin="111,252,0,0" VerticalAlignment="Top" Height="110" Width="289" FontFamily="Berlin Sans FB Demi" FontSize="36" BorderBrush="Black" Foreground="White">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button Click="cancleButton" Content="Cancle" HorizontalAlignment="Left" Margin="470,256,0,0" VerticalAlignment="Top" Height="102" Width="273" FontFamily="Berlin Sans FB Demi" FontSize="36" Foreground="White" BorderBrush="Black">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="Surfix" TextWrapping="Wrap" FontSize="20" Margin="122,97,122,195" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="ADD SURFIX" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Berlin Sans FB Demi" FontSize="72" Foreground="White"/>
+    </Grid>
+</Window>

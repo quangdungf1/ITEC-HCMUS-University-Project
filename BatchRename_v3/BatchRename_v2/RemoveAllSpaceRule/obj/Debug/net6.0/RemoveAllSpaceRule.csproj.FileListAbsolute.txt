@@ -1,0 +1,30 @@
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\RemoveAllSpaceRule.deps.json
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\RemoveAllSpaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\RemoveAllSpaceRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\Contract.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\refint\RemoveAllSpaceRule.dll
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.pdb
+C:\Users\victo\OneDrive\Documents\Final_project_AOOP\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\ref\RemoveAllSpaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\RemoveAllSpaceRule.deps.json
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\RemoveAllSpaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\RemoveAllSpaceRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\Contract.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\bin\Debug\net6.0\Contract.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.csproj.AssemblyReference.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.AssemblyInfoInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.AssemblyInfo.cs
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.csproj.CoreCompileInputs.cache
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.csproj.CopyComplete
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\refint\RemoveAllSpaceRule.dll
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\RemoveAllSpaceRule.pdb
+C:\Users\MR. TIEN\Desktop\BatchRename_v3\BatchRename_v2\RemoveAllSpaceRule\obj\Debug\net6.0\ref\RemoveAllSpaceRule.dll

@@ -1,0 +1,29 @@
+﻿<Window x:Class="ReplaceRule.ReplaceUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReplaceRule"
+        mc:Ignorable="d"
+        Title="ReplaceUI" Height="450" Width="800" Loaded="ReplaceUI_Loaded">
+
+    <Grid Background="Black">
+        <Label Content="REPLACE EDIT" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Berlin Sans FB Demi" FontSize="72" Foreground="White"/>
+        <TextBox x:Name="OldWord" TextWrapping="Wrap" FontSize="20" Margin="78,146,433,146" FontFamily="Berlin Sans FB Demi"/>
+        <Button Click="applyButton"  Content="Apply"  HorizontalAlignment="Left" Margin="79,303,0,0" VerticalAlignment="Top" Height="110" Width="288" FontFamily="Berlin Sans FB Demi" FontSize="36" BorderBrush="Black" Foreground="White">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button Click="cancleButton" Content="Cancle" HorizontalAlignment="Left" Margin="415,307,0,0" VerticalAlignment="Top" Height="102" Width="273" FontFamily="Berlin Sans FB Demi" FontSize="36" Foreground="White" BorderBrush="Black">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="NewWord" TextWrapping="Wrap" FontSize="20" Margin="415,146,96,146" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Old Word" Foreground="White" Margin="78,89,520,298" FontWeight="Bold" FontSize="30"/>
+        <Label Content="New Word" Foreground="White" Margin="415,89,183,298" FontWeight="Bold" FontSize="30"/>
+    </Grid>
+
+
+</Window>
